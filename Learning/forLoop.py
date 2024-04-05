@@ -11,11 +11,11 @@ from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 
 
 class TestClassyClix():
-    def setup_method(self, method):
+    def test_setup_method(self, method):
         self.driver = webdriver.Chrome()
         self.vars = {}
 
-    def teardown_method(self, method):
+    def test_teardown_method(self, method):
         self.driver.quit()
 
     def test_login_and_navigation(self):
@@ -62,7 +62,7 @@ class TestClassyClix():
 
 
 
-class TestClassyClix():
+class Test_ClassyClix():
     def setup_method(self, method):
         self.driver = webdriver.Chrome()
         self.vars = {}
@@ -141,6 +141,7 @@ class TestClassyClix():
 
         # Test Product Search
         # Add your test steps here
+
 
 
 

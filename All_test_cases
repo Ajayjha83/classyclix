@@ -1,0 +1,221 @@
+Homepage Load Test:
+
+Verify that the homepage loads successfully without any errors.
+Check that all page elements (images, text, buttons) load properly.
+Main Navigation Test:
+
+Test each main navigation link (e.g., Home, Categories, Products) on the homepage.
+Verify that clicking on each link navigates the user to the corresponding page.
+Search Functionality Test:
+
+Test the search functionality by entering valid and invalid keywords in the search bar.
+Verify that search results are displayed accurately on the homepage.
+Featured Content Test:
+
+Verify that any featured content (e.g., featured products, promotions, announcements) is displayed correctly on the homepage.
+Test any carousel or slideshow components to ensure they function properly.
+Footer Navigation Test:
+
+Test each footer navigation link (e.g., About Us, Contact Us, Terms and Conditions).
+Verify that clicking on each link navigates the user to the corresponding page.
+Social Media Links Test:
+
+Test any social media links/icons displayed on the homepage.
+Verify that clicking on each link takes the user to the correct social media page.
+Newsletter Subscription Test:
+
+Test the newsletter subscription form (if present) on the homepage.
+Verify that users can subscribe successfully by entering a valid email address.
+Call to Action Test:
+
+Test any call-to-action buttons or links prominently displayed on the homepage.
+Verify that clicking on these buttons or links leads users to the intended action or page.
+Featured Products Test:
+
+If there are featured products showcased on the homepage, test that they are displayed correctly.
+Verify that clicking on a featured product takes the user to the product details page.
+Responsive Design Test:
+
+Test the responsiveness of the homepage across different devices (desktop, mobile, tablet).
+Verify that the layout adjusts appropriately to different screen sizes without breaking functionality.
+
+
+
+Certainly! Including SEO-related test cases for the home page can help ensure that the website is optimized for search engines, improving its visibility and ranking in search results. Here are some SEO-related test cases you can consider for the home page of "https://www.classyclix.com/":
+
+Page Title Test:
+
+Verify that the page title accurately reflects the content and purpose of the home page.
+Check that the page title is concise, descriptive, and includes relevant keywords.
+Meta Description Test:
+
+Test that the meta description provides a concise summary of the home page content.
+Verify that the meta description includes relevant keywords and encourages users to click through to the website.
+Heading Tags Test:
+
+Verify that heading tags (e.g., <h1>, <h2>, <h3>) are used appropriately on the home page.
+Ensure that the main heading (typically <h1>) is descriptive and includes relevant keywords.
+URL Structure Test:
+
+Test the URL structure of the home page to ensure it is clean, readable, and includes relevant keywords.
+Verify that the URL accurately reflects the content and hierarchy of the home page.
+Image Alt Text Test:
+
+Test that all images on the home page have descriptive alt text that includes relevant keywords.
+Ensure that alt text accurately describes the content or purpose of the images.
+Internal Linking Test:
+
+Verify that the home page includes internal links to important sections or pages within the website.
+Test that internal links use descriptive anchor text containing relevant keywords.
+External Linking Test:
+
+Test any external links on the home page to ensure they are relevant and authoritative.
+Verify that external links open in new tabs or windows (if applicable).
+Page Load Speed Test:
+
+Test the page load speed of the home page using tools like Google PageSpeed Insights or GTmetrix.
+Verify that the home page loads quickly and efficiently to provide a good user experience.
+Mobile-Friendly Test:
+
+Test the mobile-friendliness of the home page using Google's Mobile-Friendly Test.
+Verify that the home page is optimized for mobile devices and provides a seamless user experience on smartphones and tablets.
+Structured Data Test:
+
+Test for the presence and correctness of structured data (e.g., schema.org markup) on the home page.
+Verify that structured data helps search engines understand and interpret the content of the home page.
+
+
+
+
+
+Page Load Test:
+
+Verify that the page loads within an acceptable time frame.
+Ensure all elements including images, text, and buttons are loading correctly.
+Navigation Test:
+
+Verify that all navigation links (e.g., Home, About Us, Contact) are working properly and redirecting to the correct pages.
+Check that the "Artificial Earrings" link directs to the intended page.
+Search Functionality Test:
+
+Enter a valid search term for earrings (e.g., "gold earrings") and ensure relevant results are displayed.
+Enter an invalid search term and verify that appropriate feedback is given to the user (e.g., "No results found").
+Filter Functionality Test:
+
+Apply different filters such as price range, color, material, etc., and verify that the displayed products are updated accordingly.
+Ensure that clearing filters restores the full list of products.
+Product Listing Test:
+
+Verify that all listed products have correct information including name, price, and description.
+Check that each product has an associated image.
+Product Detail Test:
+
+Click on a product and verify that it navigates to the correct product detail page.
+Ensure that all details including price, description, and additional images are displayed correctly.
+Verify that the "Add to Cart" button functions as expected.
+Cart Functionality Test:
+
+Add a product to the cart and verify that it appears in the cart summary.
+Modify the quantity of items in the cart and verify that the total price updates accordingly.
+Remove a product from the cart and verify that the cart updates correctly.
+Checkout Process Test:
+
+Proceed to checkout with at least one item in the cart and verify that the checkout process functions smoothly.
+Test with both registered and guest users if applicable.
+Verify that all required fields in the checkout form are validated properly.
+Payment Test:
+
+Select a payment method (e.g., credit card, PayPal) and verify that the payment process completes successfully.
+Test with both valid and invalid payment information to ensure proper error handling.
+Responsive Design Test:
+
+Test the website's responsiveness on various devices such as desktops, tablets, and smartphones.
+Ensure that the layout adjusts appropriately to different screen sizes without breaking functionality.
+Error Handling Test:
+
+Intentionally enter incorrect URLs or perform invalid actions and verify that appropriate error messages are displayed.
+Test scenarios such as 404 Page Not Found, server errors, or validation errors in forms.
+These test cases cover various aspects of the website's functionality, ensuring a comprehensive evaluation of its performance and user experience.
+
+User
+also include cases like low to high, higt to low etc
+ChatGPT
+Certainly, incorporating sorting functionality into the test cases adds another dimension to the evaluation. Here are additional test cases focusing on sorting functionality:
+
+Sort by Price - Low to High Test:
+
+Click on the "Sort by Price - Low to High" option and verify that the products are arranged in ascending order based on their prices.
+Ensure that the lowest-priced product appears first, followed by progressively higher-priced products.
+Sort by Price - High to Low Test:
+
+Click on the "Sort by Price - High to Low" option and verify that the products are arranged in descending order based on their prices.
+Confirm that the highest-priced product appears first, followed by progressively lower-priced products.
+Sort by Name - A to Z Test:
+
+Click on the "Sort by Name - A to Z" option and verify that the products are arranged alphabetically from A to Z based on their names.
+Ensure that products starting with letters closer to A appear first, followed by those starting with letters closer to Z.
+Sort by Name - Z to A Test:
+
+Click on the "Sort by Name - Z to A" option and verify that the products are arranged alphabetically from Z to A based on their names.
+Confirm that products starting with letters closer to Z appear first, followed by those starting with letters closer to A.
+Sort by Rating - High to Low Test:
+
+Click on the "Sort by Rating - High to Low" option and verify that the products are arranged in descending order based on their ratings.
+Ensure that products with the highest ratings appear first, followed by those with progressively lower ratings.
+Sort by Rating - Low to High Test:
+
+Click on the "Sort by Rating - Low to High" option and verify that the products are arranged in ascending order based on their ratings.
+Confirm that products with the lowest ratings appear first, followed by those with progressively higher ratings.
+Verify Consistency Across Sorting Options:
+
+Apply multiple sorting options consecutively (e.g., sort by price low to high, then by rating high to low) and ensure that the product ordering remains consistent with each selection.
+
+
+
+
+
+Page Load Test:
+
+Verify that the product page loads within an acceptable time frame.
+Ensure all elements including images, description, price, and "Add to Cart" button are loading correctly.
+Product Information Test:
+
+Verify that the product name "Classy Look Shining Stone Jhumka (Grey)" is displayed accurately.
+Check that the product description accurately describes the jhumka earrings, including material, dimensions, and any other relevant details.
+Product Image Test:
+
+Ensure that the main product image is displayed prominently.
+Verify that users can view additional images of the product, if available, by clicking or hovering over thumbnails.
+Price Display Test:
+
+Confirm that the price of the jhumka earrings is displayed accurately.
+Check if any discounts or special offers are applied and reflected in the displayed price.
+Add to Cart Test:
+
+Click on the "Add to Cart" button and verify that the product is successfully added to the cart.
+Ensure that the cart summary updates to reflect the addition of the product.
+Quantity Adjustment Test:
+
+If applicable, test the functionality to adjust the quantity of the product in the cart.
+Verify that users can increase or decrease the quantity as desired and that the total price updates accordingly.
+Product Variants Test (If Applicable):
+
+If the product has variants (e.g., different colors, sizes), test the selection functionality.
+Verify that users can choose different variants and that the product information updates accordingly (e.g., image, price).
+Product Reviews Test:
+
+If there are reviews/ratings for the product, ensure they are displayed accurately.
+Verify that users can read existing reviews and ratings, if available.
+Social Sharing Test:
+
+If social sharing options are available, test whether users can easily share the product page on various social media platforms (e.g., Facebook, Twitter).
+Breadcrumb Navigation Test:
+
+Verify that the breadcrumb navigation accurately reflects the product's category hierarchy (e.g., Home > Artificial Earrings > Jhumka > Classy Look Shining Stone Jhumka (Grey)).
+Related Products Test:
+
+Check if there are any related or recommended products displayed on the page.
+Verify the relevance and accuracy of the related product recommendations.
+Accessibility Test:
+
+Ensure that all elements on the product page are accessible to users with disabilities, including proper labeling for screen readers and keyboard navigation.
